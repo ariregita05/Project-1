@@ -1,0 +1,18 @@
+@charset "utp-8";
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-color: #aa6666;
+    font-family: myriad pro regular;
+    font-size: 30px;
+    font-weight: bold;
+}
+table img {
+    height: 100px;
+}
+table p {
+    line-height: 15px;
+}
